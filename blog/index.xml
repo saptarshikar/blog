@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NoName00.c - A Pensieve </title>
+    <title>Blogs on NoName00.c | A Pensieve</title>
     <link>https://saptarshikar.github.io/blog/blog/</link>
-    <language>en-us</language>
-    <author>Saptarshi Kar</author>
-    <rights>(C) 2017</rights>
-    <updated>2017-04-30 23:53:07 -0400 EDT</updated>
-
+    <description>Recent content in Blogs on NoName00.c | A Pensieve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2017 | Follow on &lt;a href=&#34;https://twitter.com/saptarshikar&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;https://github.com/mgjohansen/hucore.git&#34; target=&#34;_blank&#34;&gt;Hucore theme&lt;/a&gt; &amp; &lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; ♥</copyright>
+    <lastBuildDate>Sun, 30 Apr 2017 23:53:07 -0400</lastBuildDate>
     
+	<atom:link href="https://saptarshikar.github.io/blog/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://saptarshikar.github.io/blog/blog/welcome/</link>
+      <pubDate>Sun, 30 Apr 2017 23:53:07 -0400</pubDate>
       
+      <guid>https://saptarshikar.github.io/blog/blog/welcome/</guid>
+      <description>Another year, another try at blogging. This time I have stumbled upon Hugo - a static site generator. This comes as a recommended tool by Shekhar Gulati from his 52 Technologies in 2016 blog series.</description>
+    </item>
     
-
   </channel>
 </rss>
